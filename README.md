@@ -1,4 +1,4 @@
-# Case 1
+# Learn terraform
 - terraform and ansible
 
 ## Version
